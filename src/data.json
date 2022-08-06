@@ -1,0 +1,164 @@
+[
+  {
+   
+   "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Gda%C5%84sk_kamienice_przy_D%C5%82ugim_Targu.jpg",
+    "neighborhood": "Upper voab",
+    "state": "newyork",
+    "when": "30",
+    "price": "3450",
+    "type": "townhouse",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+  
+    "img": "https://cdn.branchcms.com/4baWQBA2D6-1509/images/townsend-ma-home-pest-control.jpg",
+    "neighborhood": "West ten",
+    "state": "chicago",
+    "when": "0",
+    "price": "1450",
+    "type": "house",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "https://www.cornerstoneins.ca/wp-content/uploads/2021/06/pexels-timur-saglambilek-87223.jpg",
+    "neighborhood": "mohailbim North",
+    "state": "boston",
+    "when": "30",
+    "price": "1450",
+    "type": "condo",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "https://d21dlgmglu11i3.cloudfront.net/assets/uploads/images/1527846703Mayflower_Estate_Image_01.jpeg",
+    "neighborhood": "West yittemeb Circle",
+    "state": "newhaven",
+    "when": "30",
+    "price": "2450",
+    "type": "apartment",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStn4pKPWwYTLkkqf_ZdLwFxNjNc4JGoOC7XrjG-6z_VIdCNX-l",
+    "neighborhood": " Midtown twemink",
+    "state": "detroit",
+    "when": "30",
+    "price": "5450",
+    "type": "townhouse",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStn4pKPWwYTLkkqf_ZdLwFxNjNc4JGoOC7XrjG-6z_VIdCNX-l",
+    "neighborhood": " foarolf Plaza",
+    "state": "milwaukee",
+    "when": "30",
+    "price": "3450",
+    "type": "townhouse",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    
+"img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Gda%C5%84sk_kamienice_przy_D%C5%82ugim_Targu.jpg",
+    "neighborhood": " Lower East chimmeem",
+    "state": "washington",
+    "when": "30",
+    "price": "3150",
+    "type": "townhouse",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "https://d21dlgmglu11i3.cloudfront.net/assets/uploads/images/1527846703Mayflower_Estate_Image_01.jpeg",
+    "neighborhood": " voffig Yard",
+    "state": "washington",
+    "when": "30",
+    "price": "1999",
+    "type": "apartment",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStn4pKPWwYTLkkqf_ZdLwFxNjNc4JGoOC7XrjG-6z_VIdCNX-l",
+    "neighborhood": "voffig Yard",
+    "state": "baltimore",
+    "when": "30",
+    "price": "2100",
+    "type": "townhouse",
+    "bed": "1",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    
+   "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStn4pKPWwYTLkkqf_ZdLwFxNjNc4JGoOC7XrjG-6z_VIdCNX-l",
+    "neighborhood": "    Downtown miffioc",
+    "state": "baltimore",
+    "when": "30",
+    "price": "1450",
+    "type": "townhouse",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Gda%C5%84sk_kamienice_przy_D%C5%82ugim_Targu.jpg",
+    "neighborhood": "Downtown miffioc",
+    "state": "newyork",
+    "when": "30",
+    "price": "5450",
+    "type": "townhouse",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "https://d21dlgmglu11i3.cloudfront.net/assets/uploads/images/1527846703Mayflower_Estate_Image_01.jpeg",
+    "neighborhood": " voffig Yard",
+    "state": "newyork",
+    "when": "0",
+    "price": "3450",
+    "type": "apartment",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+    "img": "https://cdn.branchcms.com/4baWQBA2D6-1509/images/townsend-ma-home-pest-control.jpg",
+    "neighborhood": "  Waterside deckilf",
+    "state": "newyork",
+    "when": "45",
+    "price": "4750",
+    "type": "house",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  },
+  {
+     "img": "https://www.cornerstoneins.ca/wp-content/uploads/2021/06/pexels-timur-saglambilek-87223.jpg",
+    "neighborhood": "Lower East veessept",
+    "state": "newyork",
+    "when": "45",
+    "price": "5450",
+    "type": "condos",
+    "bed": "3",
+    "bath": "2",
+    "size": "6x7"
+  }
+]
